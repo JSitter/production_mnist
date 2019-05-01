@@ -1,0 +1,3 @@
+flask
+Flask-PyMongo
+flask_restplus
